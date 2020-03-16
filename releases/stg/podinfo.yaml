@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: aransh/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-kuwpkbxa
     replicaCount: 2
     hpa:
       enabled: true
