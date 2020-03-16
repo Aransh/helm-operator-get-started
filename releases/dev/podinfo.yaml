@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: aransh/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-pnzjqjg6
     replicaCount: 1
     hpa:
       enabled: false
